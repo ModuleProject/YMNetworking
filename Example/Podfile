@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YMNetworking_Example' do
+  pod 'YMNetworking', :path => '../'
+
+  target 'YMNetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
