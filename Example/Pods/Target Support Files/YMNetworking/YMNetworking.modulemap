@@ -1,0 +1,6 @@
+framework module YMNetworking {
+  umbrella header "YMNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

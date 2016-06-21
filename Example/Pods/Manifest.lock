@@ -1,0 +1,16 @@
+PODS:
+  - YMNetworking (0.1.0)
+
+DEPENDENCIES:
+  - YMNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  YMNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YMNetworking: b48ed75912f223884ee389ac569edf79c18168e7
+
+PODFILE CHECKSUM: 8c8066d359df25009507780e17ad2de460ec2be8
+
+COCOAPODS: 1.0.1
